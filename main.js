@@ -18,11 +18,19 @@ btnClose.addEventListener('click', function() {
 
 
 
+btnHamb.addEventListener('click', function() {
+    mainMenu.style.display = 'block';
+
+});
+
+
+btnClose.addEventListener('click', function() {
+    mainMenu.style.display = 'none';
+});
 
 
 
 
-// mainMenu.style.display = 'block';
 
 
 
