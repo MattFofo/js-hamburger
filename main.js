@@ -1,8 +1,8 @@
 
 
-let mainMenu = document.querySelector('.hamburger-menu');
-let btnHamb = document.querySelector('.header-right > a');
-let btnClose = document.querySelector('.close');
+let mainMenu = document.querySelector(".hamburger-menu");
+let btnHamb = document.querySelector(".header-right > a");
+let btnClose = document.querySelector(".close");
 
 // metodo 1
 
